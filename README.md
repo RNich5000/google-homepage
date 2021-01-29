@@ -1,6 +1,9 @@
 THE ODIN PROJECT: GOOGLE HOMEPAGE
 
-28/01/2020
+30/01/2021
+After trying to muck around with this website, I realised that despite doing a lot of online tutorials I still don't know what I'm doing. I'll come back to this project in a couple of days, once I've had some time to find and complete some more intermediary exercises to bridge my knowledge gaps.
+
+28/01/2021
 Here is the 'knowledge check' at the start of the project
 
 ===========
