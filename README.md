@@ -1,5 +1,8 @@
 THE ODIN PROJECT: GOOGLE HOMEPAGE
 
+31/01/2021
+Updated 'google search' and 'feeling lucky' buttons. Next step, moving them to the centre and getting them on the same line.
+
 30/01/2021
 After trying to muck around with this website, I realised that despite doing a lot of online tutorials I still don't know what I'm doing. I'll come back to this project in a couple of days, once I've had some time to find and complete some more intermediary exercises to bridge my knowledge gaps.
 
